@@ -3,5 +3,5 @@
 
 ### <div> Imagem </div>
 <div align = "center"> 
-  ![MenuJava](https://github.com/ojonathanpablo/Menu-Java/assets/106927538/8d13754d-93dd-449b-88a4-b4420255519e)
+  <img>https://github.com/ojonathanpablo/Menu-Java/assets/106927538/8d13754d-93dd-449b-88a4-b4420255519e</img>
 </div>
