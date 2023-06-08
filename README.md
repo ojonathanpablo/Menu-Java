@@ -1,4 +1,4 @@
-# <div align="center"> Menu-Java </div>
+# <div align="center"> Dashboard Java-Swing </div>
 ## <div align="center"> Projeto Menu Dashboard java swing, deixando o menu mais interativo </div>
 
 ### <div> Imagem </div>
